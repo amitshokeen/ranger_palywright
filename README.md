@@ -80,3 +80,6 @@ npm run test
 ## Need Help?
 
 If you run into any technical issues during the assessment, do your best to unblock yourself. If you really cannot proceed or are done with the task, email megan@ranger.net.
+
+## Loom Link to the solution walkthrough
+https://www.loom.com/share/5795934db9b843818484b80f5f7eeab7?sid=93d459ce-01cb-4f65-bc15-432f62e95e58
